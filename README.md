@@ -34,5 +34,5 @@ A simple PHP project that connects to a MySQL database and displays data in a us
 
 ## 👤 Author
 
-This project was created for educational purposes.
+This project was created for educational purposes by Marija Taseva.
 
